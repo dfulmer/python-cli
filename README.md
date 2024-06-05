@@ -3,7 +3,8 @@
 ## Getting started
 
 Clone the repository  
-```cd into python-cli```
+cd into python-cli  
+```cd python-cli```
 
 # Create the virtual environment
 ```python3 -m venv venv```
