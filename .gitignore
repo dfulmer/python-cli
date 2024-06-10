@@ -1,0 +1,12 @@
+.bash_history
+.cache
+.env
+__pycache__/
+*.txt
+*.zip
+
+# Virtualenv
+venv
+
+# Keep requirements.txt
+!requirements.txt
