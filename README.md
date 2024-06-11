@@ -15,8 +15,8 @@ cd into python-cli
 # Install a package
 ```python -m pip install [package name]```  
 For example:  
-```python -m pip install click```
-Or install from requirements.txt, if there is one:  
+```python -m pip install click```  
+Or install from a requirements.txt file, if there is one:  
 ```python -m pip install -r requirements.txt```
 
 # Deactivate the virtual environment
