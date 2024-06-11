@@ -19,6 +19,8 @@ For example:
 Or install from a requirements.txt file, if there is one:  
 ```python -m pip install -r requirements.txt```
 
+# Try the hello worlds
+
 # Deactivate the virtual environment
 ```deactivate```
 
