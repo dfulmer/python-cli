@@ -21,6 +21,9 @@ Or install from a requirements.txt file, if there is one:
 
 # Try the hello worlds
 
+# check_zephir.py
+zephir is ['1', '2', 'a']
+
 # Deactivate the virtual environment
 ```deactivate```
 
