@@ -24,6 +24,17 @@ Or install from a requirements.txt file, if there is one:
 # check_zephir.py
 zephir is ['1', '2', 'a']
 
+Try:
+```python check_zephir.py```  
+This will ask you what you want to check in zephir and tell you if it's in zephir.
+
+```python check_zephir.py --identifier 2```  
+This allows you to specify what you want to check in the command.
+
+```python check_zephir.py --help```  
+Shows the docs.
+
+
 # Deactivate the virtual environment
 ```deactivate```
 
