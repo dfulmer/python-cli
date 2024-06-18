@@ -1,4 +1,4 @@
-# python-cli
+# Python CLI tools hello word demonstration
 
 ## Getting started
 
