@@ -11,7 +11,7 @@ cd into python-cli
 # Create the virtual environment
 ```python3 -m venv venv```
 
-# Activate it (make sure you are in the folder that contains the virtual environment you just created.)
+# Activate the virtual environment (do this from within the folder that contains the virtual environment you just created.)
 ```source venv/bin/activate```
 
 # Install a package
