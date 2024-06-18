@@ -16,6 +16,8 @@ cd into python-cli
 ```python -m pip install [package name]```  
 For example:  
 ```python -m pip install click```  
+or:  
+```python -m pip install typer```  
 Or install from a requirements.txt file, if there is one:  
 ```python -m pip install -r requirements.txt```
 
