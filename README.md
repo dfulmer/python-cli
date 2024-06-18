@@ -3,6 +3,8 @@
 ## Getting started
 
 Clone the repository  
+```git clone [code from above]``` 
+
 cd into python-cli  
 ```cd python-cli```
 
