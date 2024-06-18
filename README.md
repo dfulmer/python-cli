@@ -1,21 +1,25 @@
-# python-cli
+# Python CLI tools hello word demonstration
 
 ## Getting started
 
 Clone the repository  
+```git clone [code from above]``` 
+
 cd into python-cli  
 ```cd python-cli```
 
 # Create the virtual environment
 ```python3 -m venv venv```
 
-# Activate it (make sure you are in the folder that contains the virtual environment you just created.)
+# Activate the virtual environment (do this from within the folder that contains the virtual environment you just created.)
 ```source venv/bin/activate```
 
 # Install a package
 ```python -m pip install [package name]```  
 For example:  
 ```python -m pip install click```  
+or:  
+```python -m pip install typer```  
 Or install from a requirements.txt file, if there is one:  
 ```python -m pip install -r requirements.txt```
 
