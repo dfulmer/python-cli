@@ -39,6 +39,9 @@ And here we supply a name.
 
 ```python hello-world-click.py --name=Sam```  
 
+And we may supply a count and a name.
+
+```python hello-world-click.py --count=3 --name=Sam```  
 
 ## check_zephir.py
 zephir is ['1', '2', 'a']
