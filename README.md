@@ -25,7 +25,30 @@ Or install from a requirements.txt file, if there is one:
 
 # Try the hello worlds
 
-# check_zephir.py
+## hello-world-click.py
+This basic script defines a new command, adds an option called 'count' with a default of 1 which is the number of times the greeting will be echoed, adds another option 'name' which will become part of the greeting. There is a prompt for this second option to get the value of 'name' from the input. 'hello' is a function and is the command that will be executed.
+
+```python hello-world-click.py```  
+
+## hello-world-click.py with an option
+An option may be supplied in the command. Here we give '3' as the value of 'count' to get 3 greetings.
+
+```python hello-world-click.py --count=3```  
+
+And here we supply a name.
+
+```python hello-world-click.py --name=Sam```  
+
+And we may supply a count and a name.
+
+```python hello-world-click.py --count=3 --name=Sam```  
+
+## hello-world-click.py help
+To see the automatically generated and formatted help page, give this command:
+
+```python hello-world-click.py --help```
+
+## check_zephir.py
 zephir is ['1', '2', 'a']
 
 Try:
