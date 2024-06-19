@@ -43,6 +43,11 @@ And we may supply a count and a name.
 
 ```python hello-world-click.py --count=3 --name=Sam```  
 
+## hello-world-click.py help
+To see the automatically generated and formatted help page, give this command:
+
+```python hello-world-click.py --help```
+
 ## check_zephir.py
 zephir is ['1', '2', 'a']
 
