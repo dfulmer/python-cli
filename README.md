@@ -60,7 +60,7 @@ This is the interactive command line. It will ask you what you want to check in 
 This allows you to specify the identifier you want to check in the command.
 
 ```python check_zephir.py --help```  
-Shows the docs.
+Shows the automatically generated and formatted help page.
 
 
 # Deactivate the virtual environment
