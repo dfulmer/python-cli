@@ -45,7 +45,9 @@ if __name__ == "__main__":
     app()
 
 # Try
-# python hello-world-typer.py --help
 # python hello-world-typer.py hello Camila
 # python hello-world-typer.py goodbye Camila
 # python hello-world-typer.py goodbye --formal Camila
+# python hello-world-typer.py --help
+# python hello-world-typer.py hello --help
+# python hello-world-typer.py goodbye --help
