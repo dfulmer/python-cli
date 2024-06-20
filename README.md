@@ -54,7 +54,7 @@ zephir is ['1', '2', 'a']
 
 Try:
 ```python check_zephir.py```  
-This will ask you what you want to check in zephir and tell you if it's in zephir.
+This is the interactive command line. It will ask you what you want to check in zephir, expects input of an identifier, and tells you if it's in zephir.
 
 ```python check_zephir.py --identifier 2```  
 This allows you to specify what you want to check in the command.
