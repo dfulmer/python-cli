@@ -4,7 +4,6 @@ zephir = ['1', '2', 'a']
 
 @click.command()
 @click.option('--identifier', prompt='What do you want to check in zephir?', help='What you want to check in zephir')
-
 def check_zephir(identifier):
     if identifier in zephir:
         click.echo(f"{identifier} That's in zephir.")
