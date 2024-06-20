@@ -14,11 +14,11 @@ cd into python-cli
 # Activate the virtual environment (do this from within the folder that contains the virtual environment you just created.)
 ```source venv/bin/activate```
 
-# Install a package
+# Install the packages
 ```python -m pip install [package name]```  
 For example:  
 ```python -m pip install click```  
-or:  
+and:  
 ```python -m pip install typer```  
 Or install from a requirements.txt file, if there is one:  
 ```python -m pip install -r requirements.txt```
