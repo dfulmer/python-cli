@@ -84,6 +84,22 @@ Shows the automatically generated and formatted help page for the 'hello' comman
 ```python hello-world-typer.py goodbye --help```
 Shows the automatically generated and formatted help page for the 'goodbye' command.
 
+## zip_and_move_to_pickup.py
+This CLI tool will zip up some files.  
+
+Setup  
+Create 3 txt files:  
+```python zip_and_move_to_pickup.py createfiles 3```
+
+Zip all .txt files:  
+```python zip_and_move_to_pickup.py zip zippedfiles1```
+
+Help  
+```python zip_and_move_to_pickup.py --help```
+
+Specific help for the zip command:  
+```python zip_and_move_to_pickup.py zip --help```
+
 # Deactivate the virtual environment
 ```deactivate```
 
