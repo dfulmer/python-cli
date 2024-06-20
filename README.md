@@ -62,6 +62,27 @@ This allows you to specify the identifier you want to check in the command.
 ```python check_zephir.py --help```  
 Shows the automatically generated and formatted help page.
 
+# Typer package
+## hello-world-typer.py
+This is the simple example program from the Typer documentation. It has two commands 'hello' and 'goodbye'.
+
+```python hello-world-typer.py hello Camila```
+This gives the command 'hello' with the argument 'Camila', showing a personalized greeting.
+
+```python hello-world-typer.py goodbye Camila```
+This gives the command 'goodbye' with the argument 'Camila', showing a personalized and informal farewell.
+
+```python hello-world-typer.py goodbye --formal Camila```
+This gives the command 'goodbye' with the argument 'Camila', and the option 'formal', showing a personalized and formal farewell.
+
+```python hello-world-typer.py --help```
+Shows the automatically generated and formatted help page.
+
+```python hello-world-typer.py hello --help```
+Shows the automatically generated and formatted help page for the 'hello' command.
+
+```python hello-world-typer.py goodbye --help```
+Shows the automatically generated and formatted help page for the 'goodbye' command.
 
 # Deactivate the virtual environment
 ```deactivate```
